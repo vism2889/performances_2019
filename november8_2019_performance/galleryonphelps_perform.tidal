@@ -266,3 +266,5 @@ d7 $ sound "hc*3"
 
 d8 $ sound "basst:5([4 7]/3,8)" # release 0.5 # gain 1.2 # speed 1.2
 hushV
+
+d8 $ silence
